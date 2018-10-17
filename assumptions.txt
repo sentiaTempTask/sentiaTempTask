@@ -1,0 +1,6 @@
+as storage accounts are encrypted by default, I assume as you directly mentioned it, that you would like to use non default key (which assumption was then aborted)
+scripts will be extended, so module with all the usual crap is created (even if now it's overkill), so it will be easier in future
+loging is done via write-host and not anything more useful
+testing will be done manually, so credential can be passed as a parameter - not the best approach, but good for this purpose
+pester test for more sophisticated stuff, are outside of scope of this task (so they are partially removed or not created)
+did pass any parameters to the parameters file as the default ones are sufficient

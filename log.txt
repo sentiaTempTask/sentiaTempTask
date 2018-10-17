@@ -1,0 +1,16 @@
+1d, 00:00 creatrion of module with all needed subfolders and some basic tests
+1d, 00:30 creation of script creating resource gruop
+1d, 01:00testing if resorce group can be created with template file - failed
+1d, 02:00 create a policy (don't know why, but it seems like now is better moment for that then suggested one)
+1d, 02:20 create a key vault
+1d, 03:00 create a storage account
+1d, 03:30 spending some time on looking how to use a non default key to encrypt storage account - didn't know how to
+1d, 04:00 stoped work for that day
+2d, 00:00 resumed work on non default key encryption
+2d, 03:30 abandoned the idea
+2d, 03:50 added standard encryption
+2d, 04:10 created and added tags
+2d, 04:20 applied policy 
+2d, 04:30 stoped work for that day
+3d, 00:00 creation of repo, rewrite of log and assumptions
+3d, 00:30 stop
